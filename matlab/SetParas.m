@@ -1,0 +1,2 @@
+dataPath = './datasets/';
+datasetName = {'ORL'};
